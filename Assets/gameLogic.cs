@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class gameLogic : MonoBehaviour {
-	private int count = 0;
 	public GameObject prefab;
 	// Use this for initialization
 	void Start () {
